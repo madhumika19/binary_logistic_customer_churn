@@ -95,5 +95,3 @@ Attached in repository
 7) https://bookdown.org/chua/ber642_advanced_regression/binary-logistic-regression.html#the-purpose-of-binary-logistic-regression
 
 
-anova
-
